@@ -5,6 +5,6 @@ Resources:
   S3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: davids-extraordinary-gitsync-bucket
+      BucketName: davids-extraordinary-gitsync-bucketz
       VersioningConfiguration:
         Status: Enabled
